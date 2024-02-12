@@ -1,0 +1,6 @@
+.tituloClass{
+    font-family: 'Protest Riot';
+    font-size: 3rem;
+    color: rgb(0, 0, 0);
+    -webkit-text-stroke: 2px rgb(255, 255, 255); /* Borde alrededor del texto para navegadores basados en WebKit (como Chrome y Safari) */
+}
